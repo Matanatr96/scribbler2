@@ -1,0 +1,11 @@
+1) My name: Anush Mattapalli
+   Partner: Aaron Wasserman
+   Partner: Colin Brandys
+
+2) I wrote the performance code and some of the editing code.
+   along with some of the attacker. Aaron did the defender and some of the filming code,
+   and worked on a 3rd party program to make the movie. Colin wrote some of the editing 
+   code and some of the filming code.
+
+3) I believe that we all did equal work in this project and deserve 33.33%. This project 
+   was a pain in the butt, but we all pulled through and made a great movie.

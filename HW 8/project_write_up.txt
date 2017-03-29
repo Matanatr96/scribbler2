@@ -1,0 +1,8 @@
+1) Our movie depics a scene in the scribbler world cup where there's one 
+	minute on the clock. There are two robots; defender and attacker, while
+	another one is filing. the attacker makes a move around the defender and
+	scores a goal. Then he celebrates. We used the seeing red effect and the 
+	negative effect and the fading effect too. If you can tell, our movie zooms
+	in and out. We though it added effect, it wasnt one of our coding effects.
+
+2) We did not deviate from the rubric at all. All the requirements are met.

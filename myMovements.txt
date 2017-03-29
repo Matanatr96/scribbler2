@@ -1,0 +1,24 @@
+forward .1 65026
+turnLeft .1 64963
+turnLeft .1 64884
+turnLeft .1 64613
+turnLeft .1 64756
+turnLeft .1 64765
+turnLeft .1 64773
+turnLeft .1 64828
+forward .1 65079
+turnRight .1 64749
+forward .1 64806
+turnLeft .1 64866
+backward .1 64703
+turnRight .1 64827
+forward .1 64835
+turnLeft .1 64911
+backward .1 65061
+turnLeft .1 64929
+forward .1 65032
+turnRight .1 65024
+backward .1 65083
+turnLeft .1 65030
+forward .1 64823
+beep .1
